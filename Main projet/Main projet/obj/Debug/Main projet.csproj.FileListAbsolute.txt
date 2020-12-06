@@ -1,0 +1,7 @@
+C:\Users\Bonnefont Foucauld\Documents\A3\POO\Main projet\Main projet\bin\Debug\Main projet.exe.config
+C:\Users\Bonnefont Foucauld\Documents\A3\POO\Main projet\Main projet\bin\Debug\Main projet.exe
+C:\Users\Bonnefont Foucauld\Documents\A3\POO\Main projet\Main projet\bin\Debug\Main projet.pdb
+C:\Users\Bonnefont Foucauld\Documents\A3\POO\Main projet\Main projet\obj\Debug\Main projet.csprojAssemblyReference.cache
+C:\Users\Bonnefont Foucauld\Documents\A3\POO\Main projet\Main projet\obj\Debug\Main projet.csproj.CoreCompileInputs.cache
+C:\Users\Bonnefont Foucauld\Documents\A3\POO\Main projet\Main projet\obj\Debug\Main projet.exe
+C:\Users\Bonnefont Foucauld\Documents\A3\POO\Main projet\Main projet\obj\Debug\Main projet.pdb
